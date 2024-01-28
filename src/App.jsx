@@ -51,9 +51,13 @@ const route=createBrowserRouter([
   }]
 }
 ])
+function newfeature(){
+console.log('test')
+}
 
 function App() {
 console.log('hi')
+newfeature
 return <Cityproviser>
     <Fakeauthconteext>
   <RouterProvider router={route}></RouterProvider>
