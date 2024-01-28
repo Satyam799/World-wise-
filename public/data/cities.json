@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "205e",
+      "cityName": "Munebrega",
+      "country": "ES",
+      "date": "2024-01-26T20:00:32.558Z",
+      "notes": "hi",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": 41.76834022093573,
+        "lng": -2.5048828125000004
+      }
+    },
+    {
+      "id": "f06a",
+      "cityName": "Shivpuri",
+      "country": "IN",
+      "date": "2024-01-28T06:49:55.496Z",
+      "notes": "UUUUUUUUUUUUUUU",
+      "emoji": "🇮🇳",
+      "position": {
+        "lat": 25.428210265896677,
+        "lng": 77.65156230937951
+      }
+    }
+  ]
+}
