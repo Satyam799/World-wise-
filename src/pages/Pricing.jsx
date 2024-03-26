@@ -1,6 +1,7 @@
 // Uses the same styles as Product
 import Pagenav from "../components/Pagenav";
 import styles from "./Product.module.css";
+import img from "../../img-2.jpg"
 
 export default function Pricing() {
   return (
@@ -20,7 +21,7 @@ export default function Pricing() {
             voluptatem iste.
           </p>
         </div>
-        <img src="img-2.jpg" alt="overview of a large city with skyscrapers" />
+        <img src={img} alt="overview of a large city with skyscrapers" />
       </section>
     </main>
   );
