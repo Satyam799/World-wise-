@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import Pagenav from "../components/Pagenav";
 import styles from "./Homepage.module.css";
-import img from '../../bg.jpg'
 export default function Homepage() {
   return (
     <main className={styles.homepage}>
